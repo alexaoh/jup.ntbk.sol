@@ -30,3 +30,5 @@ Some links for how these solutions could be developed that might be of interest:
 - Review Notebook App on GitHub marketplace could be of use to some. 
 - [Nextjournal](https://nextjournal.com/), which seems to be based on Docker.
 - [nbclean](https://github.com/choldgraf/nbclean): Clear cell outputs, filtering.etc. 
+- [nbdime](https://github.com/jupyter/nbdime): Jupyter's own tools for diffing notebooks. 
+- [nbstripout](https://github.com/kynan/nbstripout): Strip output. 
