@@ -32,3 +32,7 @@ Some links for how these solutions could be developed that might be of interest:
 - [nbclean](https://github.com/choldgraf/nbclean): Clear cell outputs, filtering.etc. 
 - [nbdime](https://github.com/jupyter/nbdime): Jupyter's own tools for diffing notebooks. 
 - [nbstripout](https://github.com/kynan/nbstripout): Strip output. 
+
+### Alternative to Jupyter Notebook
+
+Notebooks in R seem to be advantageous compared to the Jupyter variant when it comes to VC problems. R Notebooks are plain-text files, which means that they work better with VC systems. 
